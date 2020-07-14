@@ -1,4 +1,4 @@
-module github.com/prometheus/mysqld_exporter
+module github.com/mxlxm/mysqld_exporter
 
 require (
 	github.com/DATA-DOG/go-sqlmock v1.4.1
@@ -15,4 +15,4 @@ require (
 	gopkg.in/ini.v1 v1.57.0
 )
 
-go 1.13
+go 1.14
